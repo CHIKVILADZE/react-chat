@@ -13,7 +13,7 @@ body {
     rgb(20, 23, 33) 50%,
     rgba(20, 23, 33, 0.8) 100%
   );
-  /* Vertical center */
+  /* Vertical  */
   display: table-cell;
   vertical-align: middle;
 }
